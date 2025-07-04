@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "@intentui/icons": "^1.11.0",
+    "@internationalized/date": "^3.8.2",
     "@internationalized/number": "^3.6.3",
+    "@react-aria/i18n": "^3.12.10",
+    "@react-stately/calendar": "^3.8.2",
     "@tailwindcss/vite": "^4.1.11",
     "react": "^19.1.0",
     "react-aria-components": "^1.10.1",

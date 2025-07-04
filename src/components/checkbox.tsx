@@ -10,7 +10,7 @@ import {
 } from "react-aria-components"
 import { twMerge } from "tailwind-merge"
 import { composeTailwindRenderProps } from "@/lib/primitive"
-import { Description, FieldError, type FieldProps, Label } from "./field"
+import { Description, FieldError, type FieldProps, Label } from "@/components/field"
 
 interface CheckboxGroupProps extends CheckboxGroupPrimitiveProps, Omit<FieldProps, "placeholder"> {}
 
